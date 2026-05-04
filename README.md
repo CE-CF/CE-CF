@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CE-CF
-- 👀 I’m interested in Machine Learning and Distributed systems
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on student projects
-- 📫 How to reach me cfaurh20@student.aau.dk
+- 👀 I’m interested in Operating Systems
+- 🌱 I’m currently working at Terma
+- 💞️ I’m looking to contribute to Open Source projects in my spare time
+- 📫 How to reach me ce.christianfaurholt@gmail.com
 
 <!---
 CE-CF/CE-CF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
